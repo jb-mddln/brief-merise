@@ -44,6 +44,23 @@ Un module est caractérisé par :
 - **✅ Achèvement** : Un module est considéré comme terminé lorsque toutes ses leçons ont été validées par l'apprenant
 - **👨‍🎓 Auto-validation** : Un apprenant peut décider de valider un module s'il considère qu'il a déjà acquis les compétences requises, sans suivre les leçons du module
 
+## 📘 Leçons
+
+### 📝 Caractéristiques des Leçons
+Une leçon est caractérisée par :
+- **🏷️ Titre**
+- **Description**
+- **📚 Contenu(s)** : Peut inclure des textes, des images, et/ou des vidéos.
+- **👤 Auteur(s)/Formateur(s)**
+- **📅 Date de création/publication**
+- **🔵 État** : Indique si la leçon est active (🟢) ou inactive (🔴).
+
+### 📏 Règles de Gestion des Leçons
+- **🚫 Accessibilité** : Une leçon inactive (🔴) n'est pas accessible aux apprenants.
+- **🔒 Définition d'Inactivité** : 
+  - Une leçon est considérée comme inactive (🔴) si elle ne contient aucun contenu,
+  - ou si un formateur l'a explicitement marquée comme inactive.
+
 ## 👥 Gestion des Membres
 
 ### 📝 Caractéristiques des Membres
