@@ -43,6 +43,7 @@
 Une formation est caractérisée par :
 - **🏷️ Titre** : Par exemple, "Formation Front-End HTML/CSS"
 - **📄 Description** : Détaille les éléments couverts durant la formation, par exemple : "Les bases du HTML/CSS"
+- **🏷️ Tags** : Identifie rapidement les sujets principaux d'une formation, exemple de tags : HTML, CSS, JS, PHP
 - **👤 Auteur(s)/Formateur(s)** : Chaque formation est rattachée à un ou plusieurs formateurs
 - **📅 Date de création/publication** : Indique la date à laquelle la formation a été mise à disposition
 - **🧩 Modules** : Chaque formation est obligatoirement associé à au moins un module et peut inclure plusieurs modules
@@ -65,7 +66,6 @@ Un module est caractérisé par :
 - **🏷️ Titre** : Par exemple, "Module : Les bases du CSS"
 - **📄 Objectif pédagogique** : Définit les buts d'apprentissage du module, comme "Être à l'aise avec les sélecteurs CSS"
 - **⏱️ Durée** : Exprime la durée totale du module en heures, par exemple, "5 heures"
-- **🏷️ Tags** : Identifie rapidement les sujets principaux du module, exemple de tags : HTML, CSS, JS, PHP
 - **👤 Auteur(s)/Formateur(s)**
 - **📅 Date de création/publication**
 - **🧩 Leçons** : Chaque module est obligatoirement associé à au moins une leçon et peut inclure plusieurs leçons
