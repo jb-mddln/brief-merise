@@ -31,7 +31,7 @@ Un formateurs est auteur d'un module pour une formation donnée, chaque formateu
 ## 📦 Livrable
 - [X] Un README explicite et soigné
 - [X] Une définition de l'acronyme [MERISE](#merise) dans le README.md
-- [ ] Un [Dictionnaire de données](dictionnaire_de_donnees.md)
+- [X] Un [Dictionnaire de données](dictionnaire_de_donnees.md)
 - [X] Des [Règles de gestion](regles_de_gestion.md)
 - [ ] Un [MCD](mcd.md)
 - [ ] Un [MLD](mld.md)
