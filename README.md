@@ -34,6 +34,6 @@ Un formateurs est auteur d'un module pour une formation donnée, chaque formateu
 - [X] Un [Dictionnaire de données](dictionnaire_de_donnees.md)
 - [X] Des [Règles de gestion](regles_de_gestion.md)
 - [X] Un [MCD](mcd.md)
-- [ ] Un [MLD](mld.md)
-- [ ] Un [MPD](mpd.md)
-- [ ] Un [Script SQL](script_sql.md) de la base de données
+- [X] Un [MLD](mld.md)
+- [X] Un [MPD](mpd.md)
+- [X] Un [Script SQL](script_sql.sql) de la base de données
