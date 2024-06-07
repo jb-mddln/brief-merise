@@ -1,7 +1,7 @@
 ## Modèle Conceptuel des Données : MCD
 Est une étape essentielle de la méthode Merise, réalisée en début de projet pour organiser et représenter clairement les données, sans considération technique, de manière compréhensible pour tous.
 
-![mcd](assets/mcd.jpg)
+![mcd](assets/mcd_new.jpg)
 
 ---
 
