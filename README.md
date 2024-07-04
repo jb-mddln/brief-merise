@@ -37,3 +37,9 @@ Un formateurs est auteur d'un module pour une formation donnée, chaque formateu
 - [X] Un [MLD](mld.md)
 - [X] Un [MPD](mpd.md)
 - [X] Un [Script SQL](script_sql.sql) de la base de données
+- [X] Un [Diagramme de cas d'utilisation](use-case.md)
+- [X] Un [Diagramme de classe](class-diagram.md)
+- [X] Un Diagramme de séquence :
+    - [Diagramme de séquence Inscription](sequence-1-diagram.md)
+    - [Diagramme de séquence Connexion](sequence-2-diagram.md)
+- [X] Un [Diagramme d'activité : Inscription & Connexion](activity-diagram.md)
